@@ -38,6 +38,13 @@
 
 
 
+
+
+
+
+
+
+
 ##Step-by-step Flow
 
 1.EventBridge triggers the pipeline (cron-like schedule, e.g., once a day).
